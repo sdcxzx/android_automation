@@ -1,0 +1,155 @@
+2022/12/07 - 08:56:42.972	info	setup.yaml
+2022/12/07 - 08:56:42.973	info	step1.yaml
+2022/12/07 - 08:56:42.973	info	setup.yaml
+2022/12/07 - 08:56:42.973	info	step1.yaml
+2022/12/07 - 08:56:42.991	info	cmd:	{"cmd": "/Users/pizazz/Library/Android/sdk/platform-tools/adb shell nohup am instrument -w io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner >/sdcard/uia2server.log 2>&1 &"}
+2022/12/07 - 08:57:12.417	info	setup.yaml
+2022/12/07 - 08:57:12.417	info	step1.yaml
+2022/12/07 - 08:57:12.418	info	setup.yaml
+2022/12/07 - 08:57:12.418	info	step1.yaml
+2022/12/07 - 08:57:12.435	info	cmd:	{"cmd": "/Users/pizazz/Library/Android/sdk/platform-tools/adb shell nohup am instrument -w io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner >/sdcard/uia2server.log 2>&1 &"}
+2022/12/07 - 08:57:47.267	info	setup.yaml
+2022/12/07 - 08:57:47.267	info	step1.yaml
+2022/12/07 - 08:57:47.267	info	setup.yaml
+2022/12/07 - 08:57:47.267	info	step1.yaml
+2022/12/07 - 08:57:47.287	info	cmd:	{"cmd": "/Users/pizazz/Library/Android/sdk/platform-tools/adb shell nohup am instrument -w io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner >/sdcard/uia2server.log 2>&1 &"}
+2022/12/07 - 08:58:50.268	info	/Users/pizazz/Desktop/learn/goclass/mobile/find_case.go:32	setup.yaml
+2022/12/07 - 08:58:50.268	info	/Users/pizazz/Desktop/learn/goclass/mobile/find_case.go:32	step1.yaml
+2022/12/07 - 08:58:50.268	info	/Users/pizazz/Desktop/learn/goclass/mobile/core/read_cases_yaml.go:42	yamlMain	{"yamlMain": {"Setup":null,"Step":null}}
+2022/12/07 - 08:58:50.269	info	/Users/pizazz/Desktop/learn/goclass/mobile/find_case.go:32	setup.yaml
+2022/12/07 - 08:58:50.269	info	/Users/pizazz/Desktop/learn/goclass/mobile/find_case.go:32	step1.yaml
+2022/12/07 - 08:58:50.288	info	/Users/pizazz/Desktop/learn/goclass/mobile/android/driver_conn.go:21	cmd:	{"cmd": "/Users/pizazz/Library/Android/sdk/platform-tools/adb shell nohup am instrument -w io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner >/sdcard/uia2server.log 2>&1 &"}
+2022/12/07 - 08:59:49.291	info	setup.yaml
+2022/12/07 - 08:59:49.291	info	step1.yaml
+2022/12/07 - 08:59:49.292	info	yamlMain	{"yamlMain": {"Setup":null,"Step":null}}
+2022/12/07 - 08:59:49.292	info	setup.yaml
+2022/12/07 - 08:59:49.292	info	step1.yaml
+2022/12/07 - 08:59:49.312	info	cmd:	{"cmd": "/Users/pizazz/Library/Android/sdk/platform-tools/adb shell nohup am instrument -w io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner >/sdcard/uia2server.log 2>&1 &"}
+2022/12/07 - 09:01:38.725	info	setup.yaml
+2022/12/07 - 09:01:38.725	info	step1.yaml
+2022/12/07 - 09:01:38.725	info	yamlMain	{"yamlMain": {"Setup":[{"StepName":"Pre Step 1","AppInstall":true,"AppUninstall":false,"Type":"","Element":"","Action":"","SendText":""},{"StepName":"Pre Step 2","AppInstall":false,"AppUninstall":false,"Type":"ID","Element":"android.widget.Button","Action":"","SendText":""},{"StepName":"Pre Step 3","AppInstall":false,"AppUninstall":false,"Type":"ID","Element":"android.widget.Button1","Action":"","SendText":"123456"}],"Step":null}}
+2022/12/07 - 09:01:38.742	info	cmd:	{"cmd": "/Users/pizazz/Library/Android/sdk/platform-tools/adb shell nohup am instrument -w io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner >/sdcard/uia2server.log 2>&1 &"}
+2022/12/07 - 09:02:29.141	info	step1.yaml
+2022/12/07 - 09:02:29.142	info	step1.yaml
+2022/12/07 - 09:02:29.164	info	cmd:	{"cmd": "/Users/pizazz/Library/Android/sdk/platform-tools/adb shell nohup am instrument -w io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner >/sdcard/uia2server.log 2>&1 &"}
+2022/12/07 - 09:03:37.700	info	step1.yaml
+2022/12/07 - 09:03:37.700	info	no setup.yaml
+2022/12/07 - 09:03:37.700	info	step1.yaml
+2022/12/07 - 09:03:37.718	info	cmd:	{"cmd": "/Users/pizazz/Library/Android/sdk/platform-tools/adb shell nohup am instrument -w io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner >/sdcard/uia2server.log 2>&1 &"}
+2022/12/07 - 09:08:53.034	info	step1.yaml
+2022/12/07 - 09:08:53.034	info	no setup.yaml
+2022/12/07 - 09:08:53.034	info	step1.yaml
+2022/12/07 - 09:10:48.442	info	step1.yaml
+2022/12/07 - 09:12:17.130	info	no setup.yaml
+2022/12/07 - 09:12:33.487	info	step1.yaml
+2022/12/07 - 09:17:04.762	info	step1.yaml
+2022/12/07 - 09:17:20.481	info	no setup.yaml
+2022/12/07 - 09:17:21.199	info	step1.yaml
+2022/12/07 - 09:17:58.503	info	step1.yaml
+2022/12/07 - 09:18:11.719	info	no setup.yaml
+2022/12/07 - 09:18:12.348	info	step1.yaml
+2022/12/07 - 09:19:06.028	info	step1.yaml
+2022/12/07 - 09:19:22.214	info	no setup.yaml
+2022/12/07 - 09:19:56.915	info	step1.yaml
+2022/12/07 - 09:27:13.567	info	step1.yaml
+2022/12/07 - 09:27:13.568	info	no setup.yaml
+2022/12/07 - 09:27:13.568	info	step1.yaml
+2022/12/07 - 09:28:26.554	info	step1.yaml
+2022/12/07 - 09:28:26.555	info	no setup.yaml
+2022/12/07 - 09:28:26.555	info	step1.yaml
+2022/12/07 - 09:34:32.615	info	step1.yaml
+2022/12/07 - 09:34:32.616	info	no setup.yaml
+2022/12/07 - 09:34:32.616	info	step1.yaml
+2022/12/07 - 09:36:33.873	info	step1.yaml
+2022/12/07 - 09:36:51.644	info	no setup.yaml
+2022/12/07 - 09:36:53.113	info	step1.yaml
+2022/12/07 - 09:38:00.421	info	step1.yaml
+2022/12/07 - 09:38:00.422	info	no setup.yaml
+2022/12/07 - 09:38:00.422	info	step1.yaml
+2022/12/07 - 09:39:19.228	info	step1.yaml
+2022/12/07 - 09:39:19.228	info	no setup.yaml
+2022/12/07 - 09:39:19.228	info	step1.yaml
+2022/12/07 - 09:39:52.999	info	step1.yaml
+2022/12/07 - 09:40:00.993	info	no setup.yaml
+2022/12/07 - 09:40:08.588	info	step1.yaml
+2022/12/07 - 09:41:57.779	info	step1.yaml
+2022/12/07 - 09:41:57.779	info	no setup.yaml
+2022/12/07 - 09:41:57.780	info	step1.yaml
+2022/12/07 - 09:45:05.133	info	step1.yaml
+2022/12/07 - 09:45:05.134	info	no setup.yaml
+2022/12/07 - 09:45:05.134	info	step1.yaml
+2022/12/07 - 09:45:21.599	info	step1.yaml
+2022/12/07 - 09:45:21.600	info	no setup.yaml
+2022/12/07 - 09:45:21.600	info	step1.yaml
+2022/12/07 - 09:45:33.238	info	step1.yaml
+2022/12/07 - 09:45:33.239	info	no setup.yaml
+2022/12/07 - 09:45:45.537	info	step1.yaml
+2022/12/07 - 09:47:12.013	info	step1.yaml
+2022/12/07 - 09:47:12.014	info	no setup.yaml
+2022/12/07 - 09:47:12.014	info	step1.yaml
+2022/12/07 - 09:47:27.890	info	step1.yaml
+2022/12/07 - 09:47:27.890	info	no setup.yaml
+2022/12/07 - 09:47:27.890	info	step1.yaml
+2022/12/07 - 09:48:40.214	info	step1.yaml
+2022/12/07 - 09:48:44.645	info	no setup.yaml
+2022/12/07 - 09:49:16.532	info	step1.yaml
+2022/12/07 - 09:49:16.532	info	no setup.yaml
+2022/12/07 - 09:49:41.606	info	step1.yaml
+2022/12/07 - 09:49:41.606	info	no setup.yaml
+2022/12/07 - 09:49:41.606	info	step1.yaml
+2022/12/07 - 09:50:39.232	info	step1.yaml
+2022/12/07 - 09:50:39.233	info	no setup.yaml
+2022/12/07 - 09:50:40.440	info	step1.yaml
+2022/12/07 - 09:51:36.677	info	step1.yaml
+2022/12/07 - 09:51:43.074	info	no setup.yaml
+2022/12/07 - 09:51:50.033	info	step1.yaml
+2022/12/07 - 09:52:30.164	info	step1.yaml
+2022/12/07 - 09:52:30.164	info	no setup.yaml
+2022/12/07 - 09:52:30.165	info	step1.yaml
+2022/12/07 - 09:56:28.241	info	step1.yaml
+2022/12/07 - 09:56:28.241	info	no setup.yaml
+2022/12/07 - 09:56:28.241	info	step1.yaml
+2022/12/07 - 09:59:20.815	info	caseName:	{"Name": "step1.yaml"}
+2022/12/07 - 09:59:20.816	info	caseName:	{"Name": "step1.yaml"}
+2022/12/07 - 10:20:42.990	info	caseName:	{"Name": "step1.yaml"}
+2022/12/07 - 10:20:42.990	info	未找到setup...........
+2022/12/07 - 10:20:42.990	info	caseName:	{"Name": "step1.yaml"}
+2022/12/07 - 10:21:26.269	info	caseName:	{"Name": "step1.yaml"}
+2022/12/07 - 10:21:26.269	info	未找到setup...........
+2022/12/07 - 10:21:26.269	info	caseName:	{"Name": "step1.yaml"}
+2022/12/07 - 10:21:45.622	info	caseName:	{"Name": "setup.yaml"}
+2022/12/07 - 10:21:45.622	info	caseName:	{"Name": "step1.yaml"}
+2022/12/07 - 10:21:45.622	info	找到setup，执行setup...........
+2022/12/07 - 10:21:45.622	info	yamlMain	{"yamlMain": {"Setup":[{"StepName":"Pre Step 1","AppInstall":true,"AppUninstall":false,"Type":"","Element":"","Action":"","SendText":""},{"StepName":"Pre Step 2","AppInstall":false,"AppUninstall":false,"Type":"ID","Element":"android.widget.Button","Action":"","SendText":""},{"StepName":"Pre Step 3","AppInstall":false,"AppUninstall":false,"Type":"ID","Element":"android.widget.Button1","Action":"","SendText":"123456"}]}}
+2022/12/07 - 10:21:45.647	info	cmd:	{"cmd": "/Users/pizazz/Library/Android/sdk/platform-tools/adb shell nohup am instrument -w io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner >/sdcard/uia2server.log 2>&1 &"}
+2022/12/07 - 16:34:47.106	info	caseName:	{"Name": "setup.yaml"}
+2022/12/07 - 16:34:47.107	info	caseName:	{"Name": "step1.yaml"}
+2022/12/07 - 16:34:47.107	info	找到setup，执行setup...........
+2022/12/07 - 16:34:47.107	info	yamlMain	{"yamlMain": {"Setup":[{"StepName":"Pre Step 1","AppInstall":true,"AppUninstall":false,"Type":"","Element":"","Action":"","SendText":""},{"StepName":"Pre Step 2","AppInstall":false,"AppUninstall":false,"Type":"ID","Element":"android.widget.Button","Action":"","SendText":""},{"StepName":"Pre Step 3","AppInstall":false,"AppUninstall":false,"Type":"ID","Element":"android.widget.Button1","Action":"","SendText":"123456"}]}}
+2022/12/07 - 16:34:47.138	info	cmd:	{"cmd": "/Users/pizazz/Library/Android/sdk/platform-tools/adb shell nohup am instrument -w io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner >/sdcard/uia2server.log 2>&1 &"}
+2022/12/07 - 16:43:18.015	info	caseName:	{"Name": "setup.yaml"}
+2022/12/07 - 16:43:18.017	info	caseName:	{"Name": "step1.yaml"}
+2022/12/07 - 16:43:18.017	info	找到setup，执行setup...........
+2022/12/07 - 16:43:18.018	info	yamlMain	{"yamlMain": {"Setup":[{"StepName":"Pre Step 1","AppInstall":true,"AppUninstall":false,"Type":"","Element":"","Action":"","SendText":""},{"StepName":"Pre Step 2","AppInstall":false,"AppUninstall":false,"Type":"ID","Element":"android.widget.Button","Action":"","SendText":""},{"StepName":"Pre Step 3","AppInstall":false,"AppUninstall":false,"Type":"ID","Element":"android.widget.Button1","Action":"","SendText":"123456"}]}}
+2022/12/07 - 16:43:18.070	info	cmd:	{"cmd": "/Users/pizazz/Library/Android/sdk/platform-tools/adb shell nohup am instrument -w io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner >/sdcard/uia2server.log 2>&1 &"}
+2022/12/07 - 16:46:34.121	info	caseName:	{"Name": "setup.yaml"}
+2022/12/07 - 16:46:34.122	info	caseName:	{"Name": "step1.yaml"}
+2022/12/07 - 16:46:34.122	info	找到setup，执行setup...........
+2022/12/07 - 16:46:34.123	info	yamlMain	{"yamlMain": {"Setup":[{"StepName":"Pre Step 1","AppInstall":true,"AppUninstall":false,"Type":"","Element":"","Action":"","SendText":""},{"StepName":"Pre Step 2","AppInstall":false,"AppUninstall":false,"Type":"ID","Element":"android.widget.Button","Action":"","SendText":""},{"StepName":"Pre Step 3","AppInstall":false,"AppUninstall":false,"Type":"ID","Element":"android.widget.Button1","Action":"","SendText":"123456"}]}}
+2022/12/07 - 16:46:34.138	info	cmd:	{"cmd": "/Users/pizazz/Library/Android/sdk/platform-tools/adb shell nohup am instrument -w io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner >/sdcard/uia2server.log 2>&1 &"}
+2022/12/07 - 18:06:06.652	info	caseName:	{"Name": "setup.yaml"}
+2022/12/07 - 18:06:06.652	info	caseName:	{"Name": "step1.yaml"}
+2022/12/07 - 18:06:06.652	info	找到setup，执行setup...........
+2022/12/07 - 18:06:06.653	info	yamlMain	{"yamlMain": {"Setup":[{"StepName":"Pre Step 1","AppInstall":true,"AppUninstall":false,"Type":"","Element":"","Action":"","SendText":""},{"StepName":"Pre Step 2","AppInstall":false,"AppUninstall":false,"Type":"ID","Element":"android.widget.Button","Action":"","SendText":""},{"StepName":"Pre Step 3","AppInstall":false,"AppUninstall":false,"Type":"ID","Element":"android.widget.Button1","Action":"","SendText":"123456"}]}}
+2022/12/07 - 18:06:06.669	info	cmd:	{"cmd": "/Users/pizazz/Library/Android/sdk/platform-tools/adb shell nohup am instrument -w io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner >/sdcard/uia2server.log 2>&1 &"}
+2022/12/07 - 18:06:30.537	info	caseName:	{"Name": "setup.yaml"}
+2022/12/07 - 18:06:30.538	info	caseName:	{"Name": "step1.yaml"}
+2022/12/07 - 18:06:30.538	info	找到setup，执行setup...........
+2022/12/07 - 18:06:30.538	info	yamlMain	{"yamlMain": {"Setup":[{"StepName":"Pre Step 1","AppInstall":true,"AppUninstall":false,"Type":"","Element":"","Action":"","SendText":""},{"StepName":"Pre Step 2","AppInstall":false,"AppUninstall":false,"Type":"ID","Element":"android.widget.Button","Action":"","SendText":""},{"StepName":"Pre Step 3","AppInstall":false,"AppUninstall":false,"Type":"ID","Element":"android.widget.Button1","Action":"","SendText":"123456"}]}}
+2022/12/07 - 18:06:30.556	info	cmd:	{"cmd": "/Users/pizazz/Library/Android/sdk/platform-tools/adb shell nohup am instrument -w io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner >/sdcard/uia2server.log 2>&1 &"}
+2022/12/07 - 18:06:44.541	info	开始执行用例...........
+2022/12/07 - 18:06:44.541	info	caseName:	{"Name": "setup.yaml"}
+2022/12/07 - 18:06:44.541	info	caseName:	{"Name": "step1.yaml"}
+2022/12/07 - 18:06:44.541	info	找到setup，执行setup...........
+2022/12/07 - 18:06:44.542	info	yamlMain	{"yamlMain": {"Setup":[{"StepName":"Pre Step 1","AppInstall":true,"AppUninstall":false,"Type":"","Element":"","Action":"","SendText":""},{"StepName":"Pre Step 2","AppInstall":false,"AppUninstall":false,"Type":"ID","Element":"android.widget.Button","Action":"","SendText":""},{"StepName":"Pre Step 3","AppInstall":false,"AppUninstall":false,"Type":"ID","Element":"android.widget.Button1","Action":"","SendText":"123456"}]}}
+2022/12/07 - 18:06:44.558	info	cmd:	{"cmd": "/Users/pizazz/Library/Android/sdk/platform-tools/adb shell nohup am instrument -w io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner >/sdcard/uia2server.log 2>&1 &"}

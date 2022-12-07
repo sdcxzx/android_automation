@@ -1,0 +1,20 @@
+2022/12/07 - 08:56:42.973	error	yamlFile.Get err	{"error": "open ./cases/setup.yaml: no such file or directory"}
+2022/12/07 - 08:56:43.012	error	启动appium服务失败	{"err": "exit status 1"}
+2022/12/07 - 08:57:12.417	error	yamlFile.Get err	{"error": "open ./cases/setup.yaml: no such file or directory"}
+2022/12/07 - 08:57:12.451	error	启动appium服务失败	{"err": "exit status 1"}
+2022/12/07 - 08:57:47.267	error	yamlFile.Get err	{"error": "open ./cases/setup.yaml: no such file or directory"}
+2022/12/07 - 08:57:47.301	error	启动appium服务失败	{"err": "exit status 1"}
+2022/12/07 - 08:58:50.268	error	/Users/pizazz/Desktop/learn/goclass/mobile/core/read_cases_yaml.go:77	yamlFile.Get err	{"error": "open ./cases/setup.yaml: no such file or directory"}
+2022/12/07 - 08:58:50.325	error	/Users/pizazz/Desktop/learn/goclass/mobile/android/driver_conn.go:24	启动appium服务失败	{"err": "exit status 1"}
+2022/12/07 - 08:59:49.291	error	yamlFile.Get err	{"error": "open ./cases/setup.yaml: no such file or directory"}
+2022/12/07 - 08:59:49.328	error	启动appium服务失败	{"err": "exit status 1"}
+2022/12/07 - 09:01:38.757	error	启动appium服务失败	{"err": "exit status 1"}
+2022/12/07 - 09:02:29.181	error	启动appium服务失败	{"err": "exit status 1"}
+2022/12/07 - 09:03:37.732	error	启动appium服务失败	{"err": "exit status 1"}
+2022/12/07 - 10:21:45.725	error	启动appium服务失败	{"err": "exit status 1"}
+2022/12/07 - 16:34:47.443	error	启动appium服务失败	{"err": "exit status 1"}
+2022/12/07 - 16:43:18.090	error	启动appium服务失败	{"err": "exit status 1"}
+2022/12/07 - 16:46:34.160	error	启动appium服务失败	{"err": "exit status 1"}
+2022/12/07 - 18:06:07.446	error	启动appium服务失败	{"err": "exit status 1"}
+2022/12/07 - 18:06:30.574	error	启动appium服务失败	{"err": "exit status 1"}
+2022/12/07 - 18:06:44.575	error	启动appium服务失败	{"err": "exit status 1"}

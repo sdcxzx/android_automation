@@ -1,0 +1,7 @@
+2022/12/06 - 17:53:34.018	error	yamlFile.Get err	{"error": "yaml: unmarshal errors:\n  line 1: cannot unmarshal !!map into []mobile.Setup"}
+2022/12/06 - 17:53:34.018	error	yamlFile.Get err	{"error": "yaml: unmarshal errors:\n  line 1: cannot unmarshal !!map into []mobile.Setup"}
+2022/12/06 - 17:58:35.768	error	yamlFile.Get err	{"error": "yaml: unmarshal errors:\n  line 1: cannot unmarshal !!map into []mobile.Setup"}
+2022/12/06 - 17:58:35.768	error	yamlFile.Get err	{"error": "yaml: unmarshal errors:\n  line 1: cannot unmarshal !!map into []mobile.Setup"}
+2022/12/06 - 17:59:55.485	error	yamlFile.Get err	{"error": "yaml: unmarshal errors:\n  line 1: cannot unmarshal !!map into []mobile.Setup"}
+2022/12/06 - 17:59:55.485	error	yamlFile.Get err	{"error": "yaml: unmarshal errors:\n  line 1: cannot unmarshal !!map into []mobile.Setup"}
+2022/12/06 - 18:17:14.310	error	启动appium服务失败	{"err": "exit status 1"}

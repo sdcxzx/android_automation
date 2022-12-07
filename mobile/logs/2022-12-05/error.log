@@ -1,0 +1,8 @@
+2022/12/05 - 18:08:25.868	error	/Users/pizazz/Desktop/learn/goclass/mobile/android/driver_conn.go:24	启动appium服务失败	{"err": "exit status 1"}
+2022/12/05 - 18:08:53.215	error	启动appium服务失败	{"err": "exit status 1"}
+2022/12/05 - 18:11:36.830	error	启动appium服务失败	{"err": "exit status 1"}
+2022/12/05 - 18:13:12.034	error	启动appium服务失败	{"err": "exit status 1"}
+2022/12/05 - 18:18:26.798	error	启动appium服务失败	{"err": "exit status 1"}
+2022/12/05 - 18:22:48.289	error	启动appium服务失败	{"err": "exit status 1"}
+2022/12/05 - 18:27:25.365	error	read /Users/pizazz/Desktop/learn/goclass/mobile/cases: is a directory
+2022/12/05 - 18:27:37.214	error	read /Users/pizazz/Desktop/learn/goclass/mobile/cases: is a directory

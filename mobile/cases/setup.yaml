@@ -1,0 +1,14 @@
+setup:
+  - stepName: "Pre Step 1"
+    appInstall: true
+    appUninstall: false
+  - stepName: "Pre Step 2"
+    type: "ID"
+    element: "android.widget.Button"
+    action: "click"
+  - stepName: "Pre Step 3"
+    type: "ID"
+    element: "android.widget.Button1"
+    action: "sendText"
+    sendText: "123456"
+

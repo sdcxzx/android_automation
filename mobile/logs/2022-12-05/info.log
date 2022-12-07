@@ -1,0 +1,7 @@
+2022/12/05 - 18:08:25.851	info	/Users/pizazz/Desktop/learn/goclass/mobile/android/driver_conn.go:21	cmd:	{"cmd": "/Users/pizazz/Library/Android/sdk/platform-tools/adb shell nohup am instrument -w io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner >/sdcard/uia2server.log 2>&1 &"}
+2022/12/05 - 18:08:53.196	info	cmd:	{"cmd": "/Users/pizazz/Library/Android/sdk/platform-tools/adb shell nohup am instrument -w io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner >/sdcard/uia2server.log 2>&1 &"}
+2022/12/05 - 18:11:36.813	info	cmd:	{"cmd": "/Users/pizazz/Library/Android/sdk/platform-tools/adb shell nohup am instrument -w io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner >/sdcard/uia2server.log 2>&1 &"}
+2022/12/05 - 18:13:12.017	info	cmd:	{"cmd": "/Users/pizazz/Library/Android/sdk/platform-tools/adb shell nohup am instrument -w io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner >/sdcard/uia2server.log 2>&1 &"}
+2022/12/05 - 18:18:26.765	info	/Users/pizazz/Desktop/learn/goclass
+2022/12/05 - 18:18:26.780	info	cmd:	{"cmd": "/Users/pizazz/Library/Android/sdk/platform-tools/adb shell nohup am instrument -w io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner >/sdcard/uia2server.log 2>&1 &"}
+2022/12/05 - 18:22:48.268	info	cmd:	{"cmd": "/Users/pizazz/Library/Android/sdk/platform-tools/adb shell nohup am instrument -w io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner >/sdcard/uia2server.log 2>&1 &"}

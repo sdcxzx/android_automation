@@ -1,0 +1,14 @@
+send_text:
+  login:
+    account: zhangsan
+    pwd: 123456
+    mobile: 13800138000
+  content:
+    text1: "Hello World"
+    text2: "你好，世界"
+
+  # 引用env.yaml文件
+    env: mobile.zapConfig.env.yaml
+
+    # 引用case.yaml文件
+    case: mobile.cases.cases
